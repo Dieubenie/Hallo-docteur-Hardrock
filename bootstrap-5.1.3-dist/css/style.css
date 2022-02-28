@@ -49,12 +49,7 @@
 .navbar .dropdown ul li {
   min-width: 200px;
 }
-.navbar .dropdown ul a {
-  padding: 10px 20px;
-  font-size: 14px;
-  text-transform: none;
-  font-weight: 400;
-}
+
 .navbar .dropdown ul a i {
   font-size: 12px;
 }
@@ -64,7 +59,7 @@
 .navbar .dropdown:hover > ul {
   opacity: 1;
   top: 100%;
-  visibility: visible;
+  
 }
 .acceuil{
    height: 70vh;
